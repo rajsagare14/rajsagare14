@@ -1,6 +1,13 @@
 ### Hi there 👋
 [![@rajsagare14's Holopin board](https://holopin.me/rajsagare14)](https://holopin.io/@rajsagare14)
 
+### :fire: My Stats
+![Rajwardhan's github stats](https://github-readme-stats.vercel.app/api?username=rajsagare14&layout=compact&theme=vision-friendly-dark)
+### :fire: Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsagare14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--  ### :fire: Contribution Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajsagare14&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
 <!--
 **rajsagare14/rajsagare14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
